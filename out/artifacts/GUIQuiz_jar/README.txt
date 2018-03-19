@@ -1,0 +1,1 @@
+GUIQuiz.jar file will work only if the Questions.txt file is in the same directory.

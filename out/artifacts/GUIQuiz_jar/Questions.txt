@@ -1,0 +1,11 @@
+﻿Which city is a capital of Slovakia?/Bratislava/Lviv/Prague/Vilnus/a
+Eiffel Tower is an attraction of/Berlin/Paris/Valentia/Warsaw/b
+Who build the Coloseum in Rome?/Romans/Celts/Slavs/Brits/a
+Which country does the Gibraltar belong?/Spain/Maroco/UK/Gibelstan/c
+Who invented electric bulb?/Thomas Edison/Nicola Tesla/Albert Einstein/Nicolas Copernicus/a
+Which region is not a part of France/Burgundy/Alzac/Ile-de-france/Wales/a
+Which country is not part of the EU?/Bulgaria/Croatia/Belarus/Poland/c
+Which country does not speak English?/England/Wales/Ireland/Austria/d
+Which city is a capital of Austria?/Salzburg/Berlin/Vienna/Munster/c
+Chose an organisation that Poland is not part of/ the EU/ the Nato / the UN / Union of Russia an Belarus/d
+You've just/taken/the test/with/and acctually/a
